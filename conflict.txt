@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 modify conflict.txt on master
+||||||| dff5749
+=======
+modify conflict.txt on test-conflict
+>>>>>>> test-conflict
